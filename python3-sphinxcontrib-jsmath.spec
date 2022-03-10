@@ -40,6 +40,7 @@ wzorów matematycznych w HTML przy użyciu JavaScriptu.
 %py3_build
 
 %if %{with tests}
+PYTEST_DISABLE_PLUGIN_AUTOLOAD=1 \
 %{__python3} -m pytest tests
 %endif
 
