@@ -6,7 +6,7 @@ Summary:	Sphinx extension which renders display math in HTML with JavaScript
 Summary(pl.UTF-8):	Rozszerzenie Sphinksa tworzące wyświetlanie wzorów matematycznych w HTML przy użyciu JavaScriptu
 Name:		python3-sphinxcontrib-jsmath
 Version:	1.0.1
-Release:	6
+Release:	7
 License:	BSD
 Group:		Libraries/Python
 #Source0Download: https://pypi.org/simple/sphinxcontrib-jsmath/
